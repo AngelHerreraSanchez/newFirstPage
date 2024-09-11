@@ -1,0 +1,37 @@
+body{
+    background-color: black;
+}
+
+.content {
+    max-width: 500px;
+    margin: auto;
+    border: solid 10px;
+    border-color: white;
+}
+
+h1{
+    text-align: center;
+    border: solid 5px;
+    border-color: red;
+    color: white;
+}
+
+p{
+    text-align: center;
+    color: white;
+}
+
+div.container {
+    text-align: center;
+}
+
+ol.myOl {
+    display: inline-block;
+    text-align: left;
+    color: white;
+}
+
+img{
+    border: solid 5px;
+    border-color: red;
+}
